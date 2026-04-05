@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**david-press/david-press** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Angel David
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Data Science & Software Engineering focused
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+currently learning:
+- Python (Pandas, NumPy, Scikit-learn)
+- Data Visualization (Matplotlib, Seaborn)
+- Backend (FastAPI)
+- Git & GitHub
+
+## 📊 Featured Projects
+- Titanic Survival Analysis
+- Kdrama Stream data analysis 
+- Python learning journey
+
+## 📫 Contact
+- Email: your email
