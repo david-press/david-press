@@ -18,4 +18,4 @@ currently learning:
 - Python learning journey
 
 ## 📫 Contact
-- Email: your email
+- Email: techbasedsentinel@gmail.com
