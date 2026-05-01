@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Angel David
+# OLALUDE DAVID
 
 ## 🚀 About Me
 - Data Science & Software Engineering focused
